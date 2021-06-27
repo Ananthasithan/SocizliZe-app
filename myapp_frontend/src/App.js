@@ -1,7 +1,9 @@
+import Home from "./components/home/Home";
+
 function App() {
   return (
     <div>
-      Hello!
+      <Home/>
     </div>
   );
 }
